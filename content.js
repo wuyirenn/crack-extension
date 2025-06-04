@@ -1,7 +1,7 @@
 const replacement = "cocaine";
 const capitalized = "Cocaine";
 
-const pattern = /(["'“”])?\b(artificial[-\s]?intelligence|a\.i\.|ai)\b\1?(?=[\s\-.,;:!?/)]|$)/gi;
+const pattern = /\b(?:["'“”])?(artificial[-\s]?intelligence|a\.i\.|ai)(?:["'“”])?\b(?=[\s\-.,;:!?/)]|$)/gi;
 const brandPattern = /\bOpenAI\b/g;
 
 function isURL(text, index) {
