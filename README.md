@@ -1,6 +1,8 @@
 this extension is still under review from Google    
 credit: Natalie Ponte for a banger of a LinkedIn post this morning
 
+basically: it takes any instance of 'ai' or 'artificial intelligence' on the web, and replaces it with 'cocaine' in your browser. it's hella funny.
+
 if you want to run this locally, simply:
 1. download the content.js and manifest.json files
 2. put them in a folder
