@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Crack AI",
+  "version": "1.0",
+  "description": "Replace 'AI' with 'cocaine' across the internet.",
+  "permissions": ["scripting"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
+}
