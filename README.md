@@ -1,4 +1,4 @@
-this extension is still under review from Google
+this extension is still under review from Google    
 credit: Natalie Ponte for a banger of a LinkedIn post this morning
 
 if you want to run this locally, simply:
