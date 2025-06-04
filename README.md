@@ -1,4 +1,5 @@
 this extension is still under review from Google
+credit: Natalie Ponte for a banger of a LinkedIn post this morning
 
 if you want to run this locally, simply:
 1. download the content.js and manifest.json files
